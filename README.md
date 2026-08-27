@@ -21,14 +21,11 @@ Backend-Focused Computer Science Student at Birzeit University | Competitive Pro
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
 
 ### Backend & Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Databases
 
