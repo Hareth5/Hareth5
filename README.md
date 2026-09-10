@@ -2,10 +2,10 @@
 
 Backend-Focused Computer Science Student at Birzeit University | Competitive Programmer
 
-* 💻 Interested in **Backend Development** and Software Engineering
-* 🧠 Strong in **Data Structures, Algorithms, OOP, and Databases**
-* 🏆 Solved **1,400+ programming problems** across competitive programming platforms
-* 🚀 Building projects using **Java, FastAPI, PHP, MySQL, MongoDB, and SQL Server**
+* Interested in **Backend Development** and Software Engineering
+* Strong in **Data Structures, Algorithms, OOP, and Databases**
+* Solved **1,400+ programming problems** across competitive programming platforms
+* Building projects using **Java, FastAPI, PHP, MySQL, MongoDB, and SQL Server**
 
 ## 🌐 Socials
 
