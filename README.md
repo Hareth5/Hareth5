@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 Backend-Focused Computer Science Student at Birzeit University | Competitive Programmer
 
