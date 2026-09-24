@@ -19,8 +19,6 @@ Backend-Focused Computer Science Student at Birzeit University | Competitive Pro
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 
 ### Backend & Development
 
