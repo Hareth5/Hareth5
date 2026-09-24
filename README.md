@@ -7,12 +7,12 @@ Backend-Focused Computer Science Student at Birzeit University | Competitive Pro
 * Solved **1,400+ programming problems** across competitive programming platforms
 * Building projects using **Java, FastAPI, PHP, MySQL, MongoDB, and SQL Server**
 
-## 🌐 Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/hareth-shoman-0270422ba)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:hareth.shoman2005@gmail.com)
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -37,7 +37,7 @@ Backend-Focused Computer Science Student at Birzeit University | Competitive Pro
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Hareth5\&theme=shadow_blue\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
 
@@ -45,7 +45,7 @@ Backend-Focused Computer Science Student at Birzeit University | Competitive Pro
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hareth5\&theme=shadow_blue\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Hareth5\&limit=5\&theme=shadow_blue\&combine_all_yearly_contributions=true)
 
